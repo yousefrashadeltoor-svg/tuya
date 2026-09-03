@@ -14,7 +14,7 @@ import {
   StatsView,
   TemplatesView,
   templateBlocks,
-} from "./components/Views";
+} from "./components/views";
 import {
   exportHtmlFile,
   exportJsonFile,
