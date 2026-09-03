@@ -1,0 +1,17 @@
+{
+  "name": "TUYA PRO",
+  "short_name": "TUYA",
+  "description": "A private offline writing and knowledge studio.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#1c1612",
+  "theme_color": "#1c1612",
+  "lang": "en",
+  "icons": [
+    {
+      "src": "/images/icon-app.jpg",
+      "sizes": "256x256",
+      "type": "image/jpeg"
+    }
+  ]
+}
